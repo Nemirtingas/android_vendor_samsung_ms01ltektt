@@ -20,4 +20,5 @@ PRODUCT_COPY_FILES += \
 
 # NFC
 PRODUCT_COPY_FILES += \
+    $(LOCAL_PATH)/proprietary/lib/hw/nfc_nci.msm8226.so:system/lib/hw/nfc_nci.msm8226.so \
     $(LOCAL_PATH)/proprietary/vendor/firmware/sec_s3fnrn3_firmware.bin:system/vendor/firmware/sec_s3fnrn3_firmware.bin
