@@ -16,6 +16,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifneq ($(TARGET_DEVICE),ms01lte)
+ifneq ($(TARGET_DEVICE),ms01ltektt)
 
 endif

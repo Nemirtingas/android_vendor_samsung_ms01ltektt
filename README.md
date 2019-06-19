@@ -1,2 +1,2 @@
-android_vendor_samsung_ms01lte
+android_vendor_samsung_ms01ltektt
 =============================
